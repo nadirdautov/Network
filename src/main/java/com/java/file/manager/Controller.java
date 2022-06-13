@@ -51,4 +51,7 @@ public class Controller {
             alert.showAndWait();
         }
     }
+
+    /*public void cutBtnAction(ActionEvent actionEvent) {
+    }*/
 }

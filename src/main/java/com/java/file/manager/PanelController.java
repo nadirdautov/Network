@@ -20,6 +20,7 @@ import java.util.ResourceBundle;
 import java.util.stream.Collectors;
 
 public class PanelController implements Initializable {
+    //TODO сделать btnDeleteAction, btnCutAction
     @FXML
     TableView<FileInfo> filesTable;
 

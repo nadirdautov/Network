@@ -12,7 +12,7 @@
             <MenuItem text="Выйти из программы" onAction="#btnExitAction"/>
         </Menu>
     </MenuBar>
-    TODO привязать onActions-->
+    TODO привязать onAction-->
 
     <HBox VBox.vgrow="ALWAYS">
         <fx:include fx:id="leftPanel" source="panel.fxml" HBox.hgrow="ALWAYS" />
